@@ -13,7 +13,7 @@ async function getDynamicPaths() {
 
 getDynamicPaths().then((paths) => {
   const Sitemap = configureSitemap({
-    domains: [{ domain: 'animemadara.vercel.app', defaultLocale: 'en' }],
+    domains: [{ domain: 'animeprime.site', defaultLocale: 'en' }],
     include: paths,
     exclude: ['/project/*'],
     excludeIndex: true,
