@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://animemadara.vercel.app/AIChat/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/AIChat/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Details/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Details/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/DubAnime/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/DubAnime/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/ForgotPassword/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/ForgotPassword/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/genre/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/genre/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Login/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Login/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/movie/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/movie/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/NewSeason/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/NewSeason/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Popular/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Popular/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Profile/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Profile/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/RecentAnime/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/RecentAnime/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Register/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Register/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/Stream/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/Stream/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/streamtest/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/streamtest/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/topAiring/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/topAiring/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/project/house/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/project/house/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/project/flower/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/project/flower/" />
+    </url>
+    <url>
+        <loc>https://animemadara.vercel.app/project/table/</loc>
+        <lastmod>2023-04-18</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="https://animemadara.vercel.app/project/table/" />
+    </url>
+</urlset>
