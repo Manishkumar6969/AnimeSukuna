@@ -6,7 +6,7 @@ const Lastwatch = (props) => {
   const [isActive, setIsActive] = useState(true);
   const [lastwatch] = useState(null);
 
-  const LOCAL_STORAGE_KEY = "animetrix-vercel-app"
+  const LOCAL_STORAGE_KEY = "animemadara-vercel-app"
   
   const handleCloseLastwatch = () => {
     setIsActive(current => !current);
