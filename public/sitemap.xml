@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-     	<loc>https://anime-sukuna.vercel.app/AIChat/</loc>
-        <lastmod>2023-04-18</lastmod>
-		<xhtml:link rel="alternate" hreflang="en" href="https://animeprime.site/AIChat/" />
-    </url>
     <url>
         <loc>https://anime-sukuna.vercel.app/Details/</loc>
         <lastmod>2023-04-18</lastmod>
@@ -79,20 +74,5 @@
         <loc>https://anime-sukuna.vercel.app/topAiring/</loc>
         <lastmod>2023-04-18</lastmod>
 		<xhtml:link rel="alternate" hreflang="en" href="https://anime-sukuna.vercel.app/topAiring/" />
-    </url>
-    <url>
-        <loc>https://anime-sukuna.vercel.app/project/house/</loc>
-        <lastmod>2023-04-18</lastmod>
-		<xhtml:link rel="alternate" hreflang="en" href="https://anime-sukuna.vercel.app/project/house/" />
-    </url>
-    <url>
-        <loc>https://anime-sukuna.vercel.app/project/flower/</loc>
-        <lastmod>2023-04-18</lastmod>
-		<xhtml:link rel="alternate" hreflang="en" href="https://anime-sukuna.vercel.app/project/flower/" />
-    </url>
-    <url>
-        <loc>https://anime-sukuna.vercel.app/project/table/</loc>
-        <lastmod>2023-04-18</lastmod>
-		<xhtml:link rel="alternate" hreflang="en" href="https://anime-sukuna.vercel.app/project/table/" />
     </url>
 </urlset>
