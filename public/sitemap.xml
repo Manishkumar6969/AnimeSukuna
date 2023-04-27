@@ -45,5 +45,8 @@
     <url>
         <loc>https://anime-sukuna.vercel.app/topAiring/</loc>
     </url>
+	<url>
+        <loc>https://anime-sukuna.vercel.app/anime-details/one-piece</loc>
+    	</url>
 		
 </urlset>
